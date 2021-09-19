@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-
 
 <figure class="sign">
    <p><img src="https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png"></p>
-   <figcaption>Деревянная скульптура</figcaption>
+   <figcaption> <div align="center"> Деревянная скульптура </div> </figcaption>
   </figure>
 
 
