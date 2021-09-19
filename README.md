@@ -8,10 +8,7 @@ IPython notebook, that demonstates how singular value decomposition may approxim
 Соответсвенно, программа производит описанную процедуру приближения изображения малоранговыми матрицами. Вот так выглядит результат:
 
 Буква В:
-<figure class="sign">
-   <p><img src="https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png"></p>
- </figure>
- 
+![image](https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png) 
  
  Статуя свободы:
 ![image](https://user-images.githubusercontent.com/43682987/133940875-03124767-4aff-4d64-92ee-0010b99ef8ed.png)
