@@ -11,7 +11,7 @@ IPython notebook, that demonstates how singular value decomposition may approxim
 https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png
 
 <figure class="sign">
-   <p><img src="https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png" width="150" height="212" alt="Скульптура"></p>
+   <p><img src="https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png"></p>
    <figcaption>Деревянная скульптура</figcaption>
   </figure>
 
