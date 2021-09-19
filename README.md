@@ -6,13 +6,14 @@ IPython notebook, that demonstates how singular value decomposition may approxim
 Каждая матрица, как известно из линейной алгебры, имеет сингулярное разложение. Если взять часть сингулярного разложения, соотвутсвующую k самым большим числам, то получится малоранговое приближение матрицы - приближение матрицей ранга k. Беря малое k можно получить искаженную и размытую версию исходной матрицы и добиться живописного глитч-эффекта.
 
 Соответсвенно, программа производит описанную процедуру приближения изображения малоранговыми матрицами. Вот так выглядит результат:
-![image](https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png) *Буква В*
 
-https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png
-
+Буква В:
 <figure class="sign">
    <p><img src="https://user-images.githubusercontent.com/43682987/133940708-b822d505-e291-41e4-899a-a30dd009de53.png"></p>
-   <figcaption> <div align="center"> Деревянная скульптура </div> </figcaption>
-  </figure>
+ </figure>
+ 
+ 
+ Статуя свободы:
+![image](https://user-images.githubusercontent.com/43682987/133940875-03124767-4aff-4d64-92ee-0010b99ef8ed.png)
 
 
