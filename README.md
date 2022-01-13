@@ -1,5 +1,5 @@
 # Singular-Approximation
-IPython notebook, that demonstates how singular value decomposition may approximate images
+IPython notebook, that demonstates how images can be compressed with singular value decomposition
 ### Что это
 Изображение является 3-мерным тензором элементы которого лежат в диапазоне [0, 255]. Тензор можно представить как три матрицы, соответсвующие синему, зеленому и красному цветам. 
 
